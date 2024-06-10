@@ -103,7 +103,7 @@ export default defineConfig4CustomTheme({
         children: [{ title: 'encode-fe-lint', path: '/cli/encode-fe-lint.md' }],
       },
     ],
-    logo: '/img/logo.png',
+    logo: '/img/box.png',
     repo: 'encode-studio-fe/fe-spec',
     searchMaxSuggestions: 10,
     docsDir: 'docs',
@@ -122,7 +122,7 @@ export default defineConfig4CustomTheme({
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/img/logo.png' }],
+    ['link', { rel: 'icon', href: '/img/box.png' }],
     [
       'meta',
       {
@@ -142,7 +142,6 @@ export default defineConfig4CustomTheme({
         showInMobile: false,
       },
     ],
-
     [
       'vuepress-plugin-zooming',
       {
@@ -153,5 +152,5 @@ export default defineConfig4CustomTheme({
       },
     ],
   ],
-  extraWatchFiles: ['.vuepress/config.ts'],
+  extraWatchFiles: ['.vuepress/config.ts', '../index.md'],
 });

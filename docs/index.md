@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 印客学院
+heroText: Fung
 tagline: 前端编码规范工程化
 actionText: 立刻进入 →
 actionLink: /coding/html.md
@@ -54,7 +54,7 @@ features:
 
 ## :email: 联系
 
-- **印客学院官网**: <http://encodestudio.cn>
-- **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
+- **:phone: 暂时不透露~~**: <https://www.baidu.com>
+- **GitHub**: <https://github.com/Fung6666/fe-spec>
 
 </br>
